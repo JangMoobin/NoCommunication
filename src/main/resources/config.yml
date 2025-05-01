@@ -1,0 +1,3 @@
+# NoCommunication Plugin Configuration
+# If enabled is true, the communication restrictions are active.
+enabled: true
